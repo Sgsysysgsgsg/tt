@@ -20,11 +20,11 @@ jobs:
 
           node-version: '16.x'
 
-      - run: npm ci
+      - run: npm config set legacy-peer-deps true
 
-      - run: npm run build --if-present
+      - run: npm i install eris-fleet
 
-      - run: npm test
+      - run: npm start
 
 
 
