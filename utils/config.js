@@ -2,7 +2,7 @@ module.exports = {
 	// Rename this file to "config.js"
 
 	// Discord bot token
-	botToken: "OTk4NzQ2NTY4NDQ4NTQwNjgy.G5uUbQ.rDVLJKj5UEO2m-gVxP5VHPYfNUakzAbGT5Fgdg",
+	botToken: "OTk4NzQ2NTY4NDQ4NTQwNjgy.G3KkY2.9jbo9tm8_rojmlU2ej8yHJKaG3vtupYWzY7F8o",
 	// Link to bot avatar URL
 	botAvatarURL: "https://cdn.discordapp.com/attachments/1006410870898823250/1006644167046332466/20afc0ef44fcb3d98e5c7ae830985aba.png",
 	// Link to bot invite URL
