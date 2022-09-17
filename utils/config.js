@@ -11,7 +11,7 @@ module.exports = {
 	// Topgg token (optional)
 	topggToken: "",
 	// Topgg vote URL (optional)
-	topggVoteURL: "https://top.gg/bot/565305035592957954/vote",
+	topggVoteURL: "soon",
 	// Bot owner ID (optional)
 	ownerID: "715789571404857385",
 	// MongoDB database
